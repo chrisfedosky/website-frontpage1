@@ -12,3 +12,5 @@ git add .  (git status at any time to verify)
 git commit -m "USEFUL MESSAGE TO THE DEV TEAM"
 git push origin main
 go to GitHub and verify push
+
+New "Feature Branch1" Workflow:
