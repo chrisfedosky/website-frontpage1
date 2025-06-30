@@ -1,0 +1,20 @@
+.header {
+    height: 100px;
+    background-color: cornsilk;
+    color: darkorange;
+}
+.title {
+    height: 75px;
+    background-color: azure;
+    color: crimson;
+}
+.abdomen {
+    height: 300px;
+    background-color: lavender;
+    color: darkorange;
+}
+.footer {
+    height: 100px;
+    background-color: cornsilk;
+    color: darkorange;
+}
